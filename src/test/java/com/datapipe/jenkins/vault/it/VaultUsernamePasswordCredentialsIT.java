@@ -34,7 +34,7 @@ import static org.junit.Assert.assertThat;
 import static utilities.ResourcePath.resourcePath;
 
 
-public class VaultUsernamePasswordCredentialsTest {
+public class VaultUsernamePasswordCredentialsIT {
 
     private static final String VAULT_ADDRESS = "http://localhost:4567";
     private static final String GLOBAL_CREDENTIALS_ID_1 = "global-1";
